@@ -2,7 +2,7 @@
 title: 'マーメイド記法を学ぶゾウ'
 emoji: '🐘'
 type: 'tech' # tech: 技術記事 / idea: アイデア
-topics: []
+topics: [postgreSQL]
 published: false
 ---
 
