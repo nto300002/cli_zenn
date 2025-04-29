@@ -10,3 +10,7 @@ docker移行作業本格化
 frontend backend
 supabase db
 明日 alembic のマイグレーションや db 動作チェックなど
+
+## 4/29
+バックエンド　環境構築
+database.py
