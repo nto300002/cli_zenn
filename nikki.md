@@ -45,3 +45,8 @@ UndefinedTableError が解決し、minimal_db_test.py が正常に flush でき�
 
 テーブル作成の問題-> モデルの sqlalchemy v2 書き方問題-> エラーの要因考察：テーブルが作成されていない? マイグレーション
 -> alembic current を実行するためのエラー
+
+## 5/7
+
+InterfaceError -> 個別のテスト開始
+進捗遅れるかも
