@@ -50,3 +50,8 @@ UndefinedTableError が解決し、minimal_db_test.py が正常に flush でき�
 
 InterfaceError -> 個別のテスト開始
 進捗遅れるかも
+
+## 5/8
+
+FAILED tests/api/v1/test_service_recipient.py::test_create_recipient_success - TypeError: object dict can't be used in 'await' expression
+あと非同期にしたらいいとこどこ
