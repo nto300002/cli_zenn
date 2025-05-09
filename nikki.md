@@ -55,3 +55,8 @@ InterfaceError -> 個別のテスト開始
 
 FAILED tests/api/v1/test_service_recipient.py::test_create_recipient_success - TypeError: object dict can't be used in 'await' expression
 あと非同期にしたらいいとこどこ
+
+## 5/9
+
+DB RuntimeError 非同期セッション 00_all
+api フォルダで supabase 再起動で治った
