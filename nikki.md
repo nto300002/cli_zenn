@@ -60,3 +60,9 @@ FAILED tests/api/v1/test_service_recipient.py::test_create_recipient_success - T
 
 DB RuntimeError 非同期セッション 00_all
 api フォルダで supabase 再起動で治った
+
+## 5/10
+
+心：進捗がないと辛い
+せっかく cursor を使っているのに使いこなせてない感
+他のプロジェクトもやってみる
